@@ -8,12 +8,14 @@ UltraVoiceSlab is an alternative version i made with my friends, with different 
 
 ## Current Character Roster
 
-This mod currently adds voice lines to:
+This mod plans to add different voice lines to:
 - Swordsmachines (including Agony and Tundra)
 - Cerberi
 - V2 (both fights)
 - Mindflayers (both masc and fem)
 - Virtues
+- Providence
+- Sentry
 - Ferrymen (excluding Agonis and Rudraksha)
 - Streetcleaners
 - Guttermen
