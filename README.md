@@ -43,8 +43,8 @@ This mod currently adds ambient non-dialogue to:
 - Uta Utane/UTAU (placeholder voice)
 - radwazhere (Voice of Cerberus)
 - silvadoesthings (Voice of Streetcleaner)
-- Doodles (Voice of Virtues)
-- indie_artz182 (Voice of V2 and Providence)
+- Doodles (Voice of Virtue and Providence)
+- indie_artz182 (Voice of V2)
 
 
 ---
