@@ -15,14 +15,12 @@ This mod plans to add different voice lines to:
 - Mindflayers (both masc and fem)
 - Virtues
 - Providence
-- Sentry
+- Sentries
 - Ferrymen (excluding Agonis and Rudraksha)
 - Streetcleaners
 - Guttermen
 - Guttertanks
-
-This mod currently adds ambient non-dialogue to:
-- Mannequins
+- Earthmover
 
 ---
 
